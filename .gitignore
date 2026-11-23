@@ -1,0 +1,9 @@
+# Private campaign data and browser state
+campaign-log.csv
+private/
+.env
+.env.*
+!.env.example
+browser-profile/
+playwright/.auth/
+storage-state.json
